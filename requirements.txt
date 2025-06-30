@@ -1,0 +1,12 @@
+python-fasthtml
+requests
+firebase-admin
+python-dotenv
+ipython
+markdown
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
