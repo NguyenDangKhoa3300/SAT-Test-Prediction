@@ -6,8 +6,8 @@ ipython
 markdown
 streamlit
 pandas
-numpy
 scikit-learn
+xgboost
+imblearn
 matplotlib
 joblib
-imblearn
