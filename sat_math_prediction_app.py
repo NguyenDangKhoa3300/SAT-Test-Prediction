@@ -11,7 +11,7 @@ st.title('SAT Math Difficulty Prediction')
 st.markdown('Input question and multiple choices to predict the difficulty.')
 
 # ==== Load mô hình và preprocessor ====
-pipeline = joblib.load('D:\\Self Study\Python\\Data Science\\Machine Learning\\Supervised machine learning\\OpenSAT\\sat_math_prediction_model.pkl')
+pipeline = joblib.load('sat_math_prediction_model.pkl')
 model = pipeline.named_steps['classifier']
 
 # ==== Form người dùng ====
